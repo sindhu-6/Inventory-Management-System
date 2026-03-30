@@ -357,10 +357,10 @@ server.servlet.session.cookie.secure=true
 
 ## 👨‍💻 Author
 
-**Kathir G**
-- **GitHub**: [@Kathir2911](https://github.com/Kathir2911)
-- **Email**: kathirganesan11@gmail.com
-- **Institution**: St. Joseph's College of Engineering
+**sindhu y**
+- **GitHub**: [@sindhu-6](https://github.com/Kathir2911)
+- **Email**: sindhugoudyaragani@gmail.com
+- **Institution**: CMR institute of technology hyderabad 
 - **Program**: Computer Science Engineering
 
 ## 🙏 Acknowledgments
